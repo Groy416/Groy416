@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://github.com/Groy416/Groy416/blob/main/Icons/seaborn.webp" height="40" alt="seaborn logo" />
   <img width="12" />
-  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/tableau.png" height="40" alt="tableau logo" />
+  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/tableu.png" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://github.com/Groy416/Groy416/blob/main/Icons/power_bi-logo.png" height="40" alt="powerbi logo" />
 </div>
