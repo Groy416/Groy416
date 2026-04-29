@@ -6,7 +6,12 @@
 
 I’m someone who looks at a dataset and thinks, “there’s definitely a story here.”
 
-Welcome to my little corner of the internet—where data meets curiosity and chaos turns into insights. I’m an aspiring Data Analyst & Machine Learning Researcher who loves digging deep into datasets, spotting hidden patterns, and asking “why does this happen?” more times than necessary. I spend most of my time trying to teach machines to understand patterns better than we do (or at least close enough).
+Welcome to my little corner of the internet, where data meets curiosity and chaos turns into insights. I’m an aspiring Data Analyst & Machine Learning Researcher who loves digging deep into datasets, spotting hidden patterns, and asking “why does this happen?” more times than necessary. I spend most of my time trying to teach machines to understand patterns better than we do (or at least close enough).
+
+What I do:
+-Find patterns in chaos
+-Build models, break them, fix them
+-Turn complicated stuff into something understandable
 
 ---
 
