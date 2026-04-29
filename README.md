@@ -10,24 +10,10 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning
 
 ### 🛠 Technologies & Tools
 
-**Languages**
+**Languages and Data Analytics Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,mongodb,latex" />
-  </a>
-</p>
-
-**Data Science & Machine Learning**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,matplot,seaborn" />
-  </a>
-</p>
-
-**Data Visualization & Business Intelligence**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,mongodb,latex,sklearn,pandas,matplot,seaborn,excel,tableau,powerbi" />
   </a>
 </p>
 
@@ -56,7 +42,4 @@ I was an **IIT Delhi TechFest Finalist** for developing an NLP-based JD-CV Analy
 
 ---
 
-### 🔬 Research & Publications
-* [cite_start]**Modelling NIFTY 50 Time-Series**: Unveiling Market Dynamics Through Deep and Hybrid Learning (Accepted at ICDMAI, Springer)[cite: 15, 17].
-* [cite_start]**Symbolic Music Generation**: Using NLP and Probabilistic Deep Learning Approaches (Accepted at ICDMAI, Springer)[cite: 19, 20].
-* [cite_start]**Blockchain-Based Tokenization**: Decentralized approach for secure ownership of land documents[cite: 18].
+
