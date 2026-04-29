@@ -5,10 +5,28 @@
 - 🌱 I’m currently learning **Machine Learning and SQL**.
 - 💬 Ask me about **Data Visualization or Python automation**.
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+### 🛠 Technologies & Tools
+
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,mongodb" />
+  </a>
+</p>
+
+**Data Analysis & Visualization**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi" />
+  </a>
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,mssql" />
+  </a>
+</p>
 
 ### 🤝 Let's Connect!
 
