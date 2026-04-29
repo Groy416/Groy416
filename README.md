@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**Groy416/Groy416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **Data Analytics and Python projects**.
+- 🌱 I’m currently learning **Machine Learning and SQL**.
+- 💬 Ask me about **Data Visualization or Python automation**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- LinkedIn: [link-to-your-profile]
+- Portfolio: [link-to-your-site]
