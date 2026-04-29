@@ -35,15 +35,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" height="40" alt="tableau logo" />
+  <img src="REPLACE_WITH_YOUR_GITHUB_SEABORN_LINK" height="40" alt="seaborn logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
+  <img src="REPLACE_WITH_YOUR_GITHUB_TABLEAU_LINK" height="40" alt="tableau logo" />
+  <img width="12" />
+  <img src="REPLACE_WITH_YOUR_GITHUB_POWERBI_LINK" height="40" alt="powerbi logo" />
 </div>
 
 ### 🛠️ DevOps & Productivity
