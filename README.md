@@ -92,6 +92,10 @@ I'm always open to collaborating on interesting projects or discussing new ideas
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <img width="12" />
+  <a href="mailto:garima.roy@stu.adamasuniversity.ac.in">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" height="40" alt="outlook logo" />
+</a>
+<img width="12" />
 </p>
 
 ---
