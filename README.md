@@ -1,10 +1,12 @@
 # Hi there, I'm Garima Roy! 👋
 
-🌎 Based in Howrah, West Bengal | 💡 Passionate about building intelligent data-driven solutions
+🌎 Based in Howrah, West Bengal | 💡 Professionally curious about data
 
 *B.Tech (Hons.) Computer Science Engineering (Data Analytics) Student*
 
-Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning Researcher with a focus on deep learning architectures and time-series forecasting. I enjoy uncovering patterns in complex datasets and am always eager to learn and explore new analytical frameworks.
+I’m someone who looks at a dataset and thinks, “there’s definitely a story here.”
+
+Welcome to my little corner of the internet—where data meets curiosity and chaos turns into insights. I’m an aspiring Data Analyst & Machine Learning Researcher who loves digging deep into datasets, spotting hidden patterns, and asking “why does this happen?” more times than necessary. I spend most of my time trying to teach machines to understand patterns better than we do (or at least close enough).
 
 ---
 
@@ -85,6 +87,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ---
 
 ### 🎉 Fun Fact
-I was an **IIT Delhi TechFest Finalist** for developing an NLP-based JD-CV Analyzer! [cite_start]🚀 [cite: 5, 10]
+I was an **IIT Delhi TechFest Finalist** for developing an NLP-based JD-CV Analyzer! 
 
 ---
