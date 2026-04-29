@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="REPLACE_WITH_YOUR_GITHUB_SEABORN_LINK" height="40" alt="seaborn logo" />
+  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/seaborn.webp" height="40" alt="seaborn logo" />
   <img width="12" />
   <img src="REPLACE_WITH_YOUR_GITHUB_TABLEAU_LINK" height="40" alt="tableau logo" />
   <img width="12" />
