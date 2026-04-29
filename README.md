@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="REPLACE_WITH_YOUR_GITHUB_TABLEAU_LINK" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="REPLACE_WITH_YOUR_GITHUB_POWERBI_LINK" height="40" alt="powerbi logo" />
+  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/power_bi-logo.png" height="40" alt="powerbi logo" />
 </div>
 
 ### 🛠️ DevOps & Productivity
