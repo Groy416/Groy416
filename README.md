@@ -10,7 +10,7 @@
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,sql,mongodb" />
   </a>
 </p>
 
