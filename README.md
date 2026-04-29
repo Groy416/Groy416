@@ -26,7 +26,7 @@
 **DevOps & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,svg" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
   </a>
 </p>
 
