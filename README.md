@@ -10,11 +10,16 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning
 
 ### 🛠 Technologies & Tools
 
-**Languages and Data Analytics Tools**
+**Technical Stack (Languages & Data Science)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,mongodb,latex,sklearn,pandas,matplot,seaborn,excel,tableau,powerbi" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,html,mysql,mongodb,latex,sklearn,pandas,matplot,seaborn" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
 
 **DevOps & Tools**
@@ -23,8 +28,6 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning
     <img src="https://skillicons.dev/icons?i=git,docker,vscode,redis" />
   </a>
 </p>
-
----
 
 ### 🌟 Let's Connect!
 
