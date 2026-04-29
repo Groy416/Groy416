@@ -1,9 +1,10 @@
 # Hi there, I'm Garima Roy! 👋
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Data Analytics and Python projects**.
-- 🌱 I’m currently learning **Machine Learning and SQL**.
-- 💬 Ask me about **Data Visualization or Python automation**.
+🌎 Based in Howrah, West Bengal | 💡 Passionate about building intelligent data-driven solutions
+
+*B.Tech (Hons.) Computer Science Engineering (Data Analytics) Student*
+
+Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning Researcher with a focus on deep learning architectures and time-series forecasting. I enjoy uncovering patterns in complex datasets and am always eager to learn and explore new analytical frameworks.
 
 ---
 
@@ -12,29 +13,50 @@
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,mongodb,latex" />
   </a>
 </p>
 
-**Data Analysis & Visualization**
+**Data Science & Machine Learning**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi,pandas,matplot" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pandas,matplot,seaborn" />
+  </a>
+</p>
+
+**Data Visualization & Business Intelligence**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi" />
   </a>
 </p>
 
 **DevOps & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,redis" />
   </a>
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+### 🌟 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas in Data Science. Feel free to reach out to me!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/garima-roy-032277290/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:garimaa.roy0401@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+---
+
+### 🎉 Fun Fact
+I was an **IIT Delhi TechFest Finalist** for developing an NLP-based JD-CV Analyzer! 🚀
+
+---
+
+### 🔬 Research & Publications
+* [cite_start]**Modelling NIFTY 50 Time-Series**: Unveiling Market Dynamics Through Deep and Hybrid Learning (Accepted at ICDMAI, Springer)[cite: 15, 17].
+* [cite_start]**Symbolic Music Generation**: Using NLP and Probabilistic Deep Learning Approaches (Accepted at ICDMAI, Springer)[cite: 19, 20].
+* [cite_start]**Blockchain-Based Tokenization**: Decentralized approach for secure ownership of land documents[cite: 18].
