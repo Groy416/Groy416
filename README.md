@@ -1,6 +1,10 @@
 # Hi there, I'm Garima Roy! 👋
 
-<h3 align="left">A Computer Science (Data Analytics) student and Researcher. I am passionate about deep learning, time-series forecasting, and building intelligent data-driven solutions. I enjoy uncovering patterns in complex datasets and am always experimenting with new analytical frameworks.</h3>
+🌎 Based in Howrah, West Bengal | 💡 Passionate about building intelligent data-driven solutions
+
+*B.Tech (Hons.) Computer Science Engineering (Data Analytics) Student*
+
+Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning Researcher with a focus on deep learning architectures and time-series forecasting. I enjoy uncovering patterns in complex datasets and am always eager to learn and explore new analytical frameworks.
 
 ---
 
@@ -41,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://github.com/Groy416/Groy416/blob/main/Icons/seaborn.webp" height="40" alt="seaborn logo" />
   <img width="12" />
-  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/tableu.png" height="40" alt="tableau logo" />
+  <img src="https://github.com/Groy416/Groy416/blob/main/Icons/tableau.png" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://github.com/Groy416/Groy416/blob/main/Icons/power_bi-logo.png" height="40" alt="powerbi logo" />
 </div>
