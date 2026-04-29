@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am an aspiring Data Analyst and Machine Learning
 **Technical Stack (Languages & Data Science)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,html,markdown,mysql,mongodb,latex" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,html,markdown,mysql,mongodb,latex,aws,canva,figma,notion,androidstudio,github" />
   </a>
   <br />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
